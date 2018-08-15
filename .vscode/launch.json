@@ -4,9 +4,12 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Microsoft cloud sandbox",
+            "name": "BingMaps_BC2018",
+            "server": "http://172.30.139.255",
+            "serverInstance": "NAV",
+            "authentication": "UserPassword",
             "startupObjectId": 22,
             "startupObjectType": "Page"
         }
     ]
-}
+} 

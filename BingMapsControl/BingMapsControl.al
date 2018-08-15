@@ -16,5 +16,5 @@ controladdin BingMapsControl
     VerticalStretch = true;
 
     event ControlAddInReady(); //Da bi se omogućilo stvaranje. U BingMapsCardPart se definiše UserControl sa tim trigerom
-    procedure ShowAddress(Address: Text); //Pozuva f-ju iz Script.js
+    procedure ShowAddress(Address: Text); //Poziva f-ju iz Script.js
 }

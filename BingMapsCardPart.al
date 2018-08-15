@@ -44,6 +44,6 @@ page 50130 BingMapsCardPart
         if Rec."Country/Region Code" <> '' then
             CustAddress += ', ' + Rec."Country/Region Code";
 
-        CurrPage.BingMaps.ShowAddress(CustAddress);
+        CurrPage.BingMaps.ShowAddress(CustAddress);  //Poziva f-ju iz UserControl-a
     end;
 }

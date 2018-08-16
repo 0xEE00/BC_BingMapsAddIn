@@ -5,7 +5,7 @@
             "type": "al",
             "request": "launch",
             "name": "BingMaps_BC2018",
-            "server": "http://172.30.139.255",
+            "server": "http://bc2018",
             "serverInstance": "NAV",
             "authentication": "UserPassword",
             "startupObjectId": 22,
